@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Captain America",
+      "posterPath": "images/captainamerica.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Avengers",
+      "posterPath": "images/avengers.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Spider Man",
+      "posterPath": "images/ironman.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Thor",
+      "posterPath": "images/thor.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Doctor Strange",
+      "posterPath": "images/doctorstrange.jpg"
+    }
+  ],
+  "favourites": [
+    
+  ]
+}

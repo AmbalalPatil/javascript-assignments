@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+}
+
+button {
+	margin: auto;
+	float: none;
+}
+
+ul {
+	list-style: none;
+}
+
+li{
+	justify-content: center;
+	margin: 1em;
+}
